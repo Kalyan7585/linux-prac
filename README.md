@@ -1,0 +1,2 @@
+# linux-prac
+learning linux
